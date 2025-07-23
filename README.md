@@ -1,2 +1,2 @@
 # models
-check releases
+Contains data about models used for oneshot classification
