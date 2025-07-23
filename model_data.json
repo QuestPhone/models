@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SIGLIP2_FP16",
+    "url": "https://huggingface.co/onnx-community/siglip2-base-patch16-224-ONNX/resolve/main/onnx/model_fp16.onnx",
+    "sizeMB": 751,
+    "accuracy": "Medium",
+    "version": "1.0.0",
+    "isRecommended": true
+  },
+  {
+    "id": "SIGLIP2_FULL",
+    "url": "https://huggingface.co/onnx-community/siglip2-base-patch16-224-ONNX/resolve/main/onnx/model.onnx",
+    "sizeMB": 1500,
+    "accuracy": "HIGHEST",
+    "version": "1.0.0",
+    "isRecommended": false
+  },
+  {
+    "id": "SIGLIP2_UINT8",
+    "url": "https://huggingface.co/onnx-community/siglip2-base-patch16-224-ONNX/resolve/main/onnx/model_uint8.onnx",
+    "sizeMB": 378,
+    "accuracy": "LOWEST",
+    "version": "1.0.0",
+    "isRecommended": false
+  }
+]
