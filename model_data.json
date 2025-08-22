@@ -22,5 +22,13 @@
     "accuracy": "LOWEST",
     "version": "1.0.0",
     "isRecommended": false
+  },
+   {
+    "id": "OPEN_CLIP_UINT*",
+    "url": "https://huggingface.co/Xenova/clip-vit-base-patch32/resolve/main/onnx/model_quantized.onnx",
+    "sizeMB": 378,
+    "accuracy": "LOWEST",
+    "version": "1.0.0",
+    "isRecommended": false
   }
 ]
