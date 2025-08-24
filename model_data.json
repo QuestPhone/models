@@ -7,7 +7,7 @@
     "accuracy": "HIGHEST",
     "version": "1.0.0",
     "isRecommended": true,
-    "isOnline":true,
+    "isOnline":true
   },
   {
     "id": "SIGLIP2_FP16",
