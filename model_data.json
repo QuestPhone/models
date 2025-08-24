@@ -6,7 +6,8 @@
     "sizeMB": 0,
     "accuracy": "HIGHEST",
     "version": "1.0.0",
-    "isRecommended": true
+    "isRecommended": true,
+    "isOnline":true,
   },
   {
     "id": "SIGLIP2_FP16",
